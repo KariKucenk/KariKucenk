@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KariKucenk
+- 👀 I’m interested in small coding and scripting :) 
+- 🌱 I’m currently learning on making discord bot
